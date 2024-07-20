@@ -1,0 +1,10 @@
+images: "../data/images"
+masks: "../data/masks"
+
+train_masks: "../split_data/masks/train"
+test_masks: "../split_data/masks/test"
+train_images: "../split_data/images/train"
+test_images: "../split_data/images/test"
+
+batch_size: 32
+
